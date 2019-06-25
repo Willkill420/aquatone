@@ -137,7 +137,6 @@ Aquatone can make a report on hosts scanned with the [Nmap](https://nmap.org/) o
 
     $ cat scan.xml | aquatone -nmap
 
-### Credits
 
-- Thanks to [EdOverflow](https://twitter.com/EdOverflow) for the [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz/) project which Aquatone's domain takeover capability is based on.
-- Thanks to [Elbert Alias](https://github.com/AliasIO) for the [Wappalyzer](https://github.com/AliasIO/Wappalyzer) project's technology fingerprints which Aquatone's technology fingerprinting capability is based on.
+
+
